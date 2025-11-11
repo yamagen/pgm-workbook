@@ -1,4 +1,6 @@
-# Workbook: Workbook for Process Grammar Model [[README-ja](README-ja.md)]
+# Workbook: Workbook for Process Grammar Model
+
+[[README-ja](README-ja.md)]
 
 This directory contains notes for deepening the understanding of the Process Grammar Model (PGM), particularly focusing on Immediate Grammar.
 
