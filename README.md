@@ -1,4 +1,4 @@
-# Workbook: Workbook for Process Grammar Model [ja](README-ja.md)
+# Workbook: Workbook for Process Grammar Model [[README-ja](README-ja.md)]
 
 This directory contains notes for deepening the understanding of the Process Grammar Model (PGM), particularly focusing on Immediate Grammar.
 
@@ -29,3 +29,12 @@ This directory contains notes for deepening the understanding of the Process Gra
 - Lesson 16 [en](markdown/20250924_task_L16_en.md) [ja](markdown/20250924_task_L16_ja.md)
 - Lesson 17 [en](markdown/20250924_task_L17_en.md) [ja](markdown/20250924_task_L17_ja.md)
 - Lesson 18 [en](markdown/20250924_task_L18_en.md) [ja](markdown/20250924_task_L18_ja.md)
+
+---
+
+## License
+
+- **Text and data** (workbook contents): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Source code** (scripts and generation tools): [MIT License](LICENSE-MIT.txt)
+
+  © 2025 Hilofumi Yamamoto (Institute of Science Tokyo)

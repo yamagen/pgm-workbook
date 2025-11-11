@@ -1,0 +1,29 @@
+cff-version: 1.1.0
+message: "If you use this workbook or source code, please cite as follows:"
+title: "pgm-workbook: A workbook for understanding the Process Grammar Model"
+authors:
+  - family-names: Yamamoto
+    given-names: Hilofumi
+    orcid: "https://orcid.org/0000-0001-6876-139X"
+    affiliation: "Institute of Science Tokyo"
+    website: "https://researchmap.jp/hilo-yamamoto?lang=en"
+version: "1.0.0"
+date-released: 2025-11-11
+repository-code: "https://github.com/yamagen/pgm-workbook"
+
+# --- License information ---
+# Data (workbook contents): CC-BY-4.0
+# Source code (scripts, tools): MIT
+license: "CC-BY-4.0"
+
+keywords:
+  - process grammar
+  - linguistics
+  - workbook
+  - japanese language
+
+references:
+  - type: software
+    title: "Source code for pgm-workbook"
+    repository-code: "https://github.com/yamagen/pgm-workbook"
+    license: "MIT"
